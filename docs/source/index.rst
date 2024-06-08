@@ -28,7 +28,7 @@ https://archive.org/details/@kubetvoyage
 https://b.hatena.ne.jp/kubetvoyage/bookmark
 https://draft.blogger.com/profile/16740950695725199582
 https://kubetvoyage.bandcamp.com/album/kubetvoyage
-kubetvoyage.wordpress.com
+https://kubetvoyage.wordpress.com
 https://linktr.ee/kubetvoyage
 https://ok.ru/profile/603635484734/statuses/155887350355262
 https://profile.hatena.ne.jp/kubetvoyage/profile
